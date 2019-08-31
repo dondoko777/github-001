@@ -6,4 +6,5 @@ Gitを使ってバージョン管理が
 
 Initial Commitは成功しましたか？
 OK
+レビュー中
 
